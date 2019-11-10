@@ -1,0 +1,8 @@
+# exclude all
+*
+# include all dirs
+!*/
+# include all rust files
+!*.rs
+# include .gitignore itself
+!.gitignore
